@@ -125,7 +125,7 @@
                     <a href="#">Quem somos</a>
                     <a href="#">Contato</a>
                 </nav>
-        <h1>Exemplo testeee</h1>
+        <h1>Exemplo teste</h1>
     </header>
 <main>
 
